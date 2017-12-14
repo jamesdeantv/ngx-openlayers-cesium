@@ -13,4 +13,5 @@ __export(require("./tilewms.component"));
 __export(require("./geojson.component"));
 __export(require("./tilewmts.component"));
 __export(require("./imagewms.component"));
+__export(require("./imagestatic.component"));
 //# sourceMappingURL=index.js.map
